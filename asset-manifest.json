@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.31920fa9.css",
-    "main.js": "./static/js/main.9b573f7a.js",
+    "main.css": "./static/css/main.ed5f4fb1.css",
+    "main.js": "./static/js/main.1ee36d53.js",
     "static/media/Shopping_bag_Cart.svg": "./static/media/Shopping_bag_Cart.f9632dca8fdaed9bb696.svg",
     "static/media/fav_icon.svg": "./static/media/fav_icon.73331cc5187a77c7d93e.svg",
     "static/media/close_burger.svg": "./static/media/close_burger.0594ac0ef702db8fbc79.svg",
@@ -9,11 +9,11 @@
     "static/media/arrow_right.svg": "./static/media/arrow_right.a1ab235df9f10c24edff.svg",
     "static/media/arrow_up.svg": "./static/media/arrow_up.9c853957f6aff26a56df.svg",
     "static/media/arrow_left.svg": "./static/media/arrow_left.6b946107b7a612f5da4f.svg",
-    "main.31920fa9.css.map": "./static/css/main.31920fa9.css.map",
-    "main.9b573f7a.js.map": "./static/js/main.9b573f7a.js.map"
+    "main.ed5f4fb1.css.map": "./static/css/main.ed5f4fb1.css.map",
+    "main.1ee36d53.js.map": "./static/js/main.1ee36d53.js.map"
   },
   "entrypoints": [
-    "static/css/main.31920fa9.css",
-    "static/js/main.9b573f7a.js"
+    "static/css/main.ed5f4fb1.css",
+    "static/js/main.1ee36d53.js"
   ]
 }
